@@ -4,25 +4,28 @@
 <head>
     <meta charset="utf-8">
     <title>Almanaque Olímpiadas Rio 2016</title>
-    <link rel="stylesheet" href="styleHome.css" />
+    <link rel="stylesheet" href="style.css" />
 </head>
 
 <body>
-
-    <header>
-        <div class="banner-official">
+    <header class="header-page-about">
+        <section class="menu">
+            <input id="menu-toggle" type="checkbox" />
+            <label class="menu-btn" for="menu-toggle">
+            <span></span>
+        </label>
+            <ul class="menu-box">
+                <li><a class="menu-item" href="#">Home 🏅</a></li>
+                <li><a class="menu-item" href="#">Athletes 🏅</a></li>
+                <li><a class="menu-item" href="#">Countries 🏅</a></li>
+            </ul>
+        </section>
+        <figure class="banner-official">
             <img src="img/bannerOficial2.png" alt="logo da Olímpiadas Rio 2016 com fundo colorido" class="banner">
-        </div>
+        </figure>
 
     </header>
-    <nav>
-        <ul class="menu">
 
-            <li class="item-menu"><a href="index.html" id="Home" class="links">🏅Home</a></li>
-            <li class="item-menu"><a href="atletas.html" id="Ath" class="links">🏅Atletas</a></li>
-            <li class="item-menu"><a href="countries.html" id="countries" class="links">🏅Países</a></li>
-        </ul>
-    </nav>
 
     <section class="about" id="about-olympics">
 
