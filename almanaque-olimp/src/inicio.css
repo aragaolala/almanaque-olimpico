@@ -63,7 +63,6 @@ footer {
   background-color: #1B1E59;
   margin: 0;
   padding: 10px 0;
-  position: absolute;
 }
 
 .footer-text {
@@ -83,6 +82,15 @@ footer {
   .btn-inicio {
     font-size: 20px;
   }
+
+  .footer {
+    padding: 20px 0;
+  }
+
+  .footer-text {
+    font-size: 17px;
+    padding: 2px;
+  }
 }
 
 @media screen and (min-width: 1024px) {
@@ -92,5 +100,14 @@ footer {
   
   .btn-inicio {
     font-size: 25px;
+  }
+
+  .footer {
+    padding: 25px 0;
+  }
+
+  .footer-text {
+    font-size: 20px;
+    padding: 2px;
   }
 }

@@ -110,12 +110,6 @@
 }
 
 .logo-mascot {
-<<<<<<< HEAD
-=======
-    height: 30vh;
-    width: 30vw;
-    border-radius: 5px;
->>>>>>> 88e304139164000c2a19a60ef28e9e6eb127ef44
     margin: 3%;
     width: 300px;
     height: auto;
@@ -134,20 +128,21 @@ h3 {
 }
 
 footer {
-    bottom: 0;
-    width: 100%;
-    background-color: #1B1E59;
-    margin: 0;
-  }
-  
-  .footer-text {
-    font-weight: lighter;
-    text-align: center;
-    font-size: 10px;
-    color: #F2F2F1;
-    margin: 0;
-    padding: 1px;
-  }
+  bottom: 0;
+  width: 100%;
+  background-color: #1B1E59;
+  margin: 0;
+  padding: 10px 0;
+}
+
+.footer-text {
+  font-weight: lighter;
+  text-align: center;
+  font-size: 15px;
+  color: #F2F2F1;
+  margin: 0;
+  padding: 1px;
+}
 
 @media screen and (min-width: 768px) {
     .menu-box {
@@ -172,7 +167,7 @@ footer {
     }
 
     .footer-text {
-        font-size: 15px;
+        font-size: 17px;
         padding: 2px;
       }
 }
@@ -201,5 +196,5 @@ footer {
     .footer-text {
         font-size: 20px;
         padding: 2px;
-      }
+    }
 }
