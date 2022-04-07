@@ -1,204 +1,177 @@
-* {
-  background-color: #F2F2F1;
-  margin: 0;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
+/* 
 
 .banner {
-  width: 100%;
-  height: 100%;
-  object-fit: contain;
-}
-
-.banner-oficial {
-  position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
 }
 
 .menu {
-  padding-top: 2%;
-  padding-left: 7%;
+    padding-top: 2%;
+    padding-left: 7%;
 }
 
 .item-menu {
-  list-style: none;
-  padding-left: 1%;
-  display: inline;
-  position: relative;
-  background-color: transparent;
+    list-style: none;
+    padding-left: 1%;
+    display: inline;
+    position: relative;
+    background-color: transparent;
 }
 
 .links {
-  text-decoration: none;
-  color: #0d4b92;
-  font-size: 1.1255rem;
-  font-weight: bold;
-  background-color: transparent;
+    text-decoration: none;
+    color: #0d4b92;
+    font-size: 1.1255rem;
+    font-weight: bold;
+    background-color: transparent;
 }
 
 .iconOrder {
-  position: center;
-  background: transparent;
+    position: center;
+    background: transparent;
 }
 
 .menuBar {
-  position: relative;
-  background-color: #0d4b92;
-  display: flex;
-  align-content: space-around;
-  justify-content: center;
-  height: 3.125rem;
-  margin-top: 21.4rem;
-  margin-left: 15%;
-  margin-right: 15%;
+    position: relative;
+    background-color: #0d4b92;
+    display: flex;
+    align-content: space-around;
+    justify-content: center;
+    height: 3.125rem;
+    margin-top: 21.4rem;
+    margin-left: 15%;
+    margin-right: 15%;
 }
 
 .flexItem {
-  height: 2.313rem;
-  border-radius: 0.625rem;
-  margin-top: 0.375rem;
+    height: 2.313rem;
+    border-radius: 0.625rem;
+    margin-top: 0.375rem;
 }
 
 .athField {
-  height: 1.938rem;
-  border-radius: 0.625rem;
-  margin-top: 0.375rem;
-  margin-right: 1.5rem;
+    height: 1.938rem;
+    border-radius: 0.625rem;
+    margin-top: 0.375rem;
+    margin-right: 1.5rem;
 }
 
-.Order-container, .ordering-medal {
-  width: 5.063rem;
-  margin-right: 1.25rem;
+.Order-container,
+.ordering-medal {
+    width: 5.063rem;
+    margin-right: 1.25rem;
 }
-
 
 .btn {
-  border: 0.063rem solid;
-  border-radius: 0.25rem;
-  background-color: #e5e9e9;
-  display: inline-block;
-  cursor: pointer;
-  font-family: Verdana;
-  font-weight: bold;
-  font-size: 0.75rem;
-  padding: 0.375rem 0.625rem;
-  width: 5.625rem;
-  margin-left: 1rem;
+    border: 0.063rem solid;
+    border-radius: 0.25rem;
+    background-color: #e5e9e9;
+    display: inline-block;
+    cursor: pointer;
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: 0.75rem;
+    padding: 0.375rem 0.625rem;
+    width: 5.625rem;
+    margin-left: 1rem;
 }
 
 .container-atletas {
-  display: flex;
-  flex-wrap: wrap;
-  align-content: space-between;
-  justify-content: space-evenly;
-  margin-left: 15%;
-  margin-right: 14.5%;
-  position: relative;
-  margin-top: 0.563rem;
-
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: space-evenly;
+    margin-left: 15%;
+    margin-right: 14.5%;
+    position: relative;
+    margin-top: 0.563rem;
 }
 
 .flex-item-atleta {
-  width: 10rem;
-  padding-bottom: 2rem;
+    width: 10rem;
+    padding-bottom: 2rem;
 }
 
 .cards-atletas {
-  height: 100%;
-  background-image: linear-gradient(to bottom, #21A556, #248F64, #297B6B, #364987);
-  border: 0.063rem solid black;
-  border-radius: 4px;
-  list-style: none;
-  padding-left: 0;
+    height: 100%;
+    background-image: linear-gradient(to bottom, #21A556, #248F64, #297B6B, #364987);
+    border: 0.063rem solid black;
+    border-radius: 4px;
+    list-style: none;
+    padding-left: 0;
 }
 
 .conteudo-atletas {
-  background-color: transparent;
-  font-size: 1.25rem;
-  text-align: center;
-  padding-top: 0.5rem;
-  color: whitesmoke;
-
+    background-color: transparent;
+    font-size: 1.25rem;
+    text-align: center;
+    padding-top: 0.5rem;
+    color: whitesmoke;
 }
 
 .top {
-  position: fixed;
-  bottom: 3.125rem;
-  right: 3.125rem;
-  border: none;
+    position: fixed;
+    bottom: 3.125rem;
+    right: 3.125rem;
+    border: none;
 }
 
 .footer {
-  font-size: 1.25rem;
-  text-align: center;
-  padding-top: 11%;
-  padding-bottom: 1%;
+    font-size: 1.25rem;
+    text-align: center;
+    padding-top: 11%;
+    padding-bottom: 1%;
 }
 
 @media (min-width: 320px) {
-
-  .links {
-    font-size: 150%;
-  }
-
-  .menu {
-    padding-top: 2%;
-  }
-
-  .item-menu {
-    padding-left: 15%;
-  }
-
-  .menuBar {
-    margin-top: 21.4rem;
-
-  }
-
-  .flex-item-atleta {
-    width: 30%;
-    padding-top: 2%;
-  }
-
-  .conteudo-atletas {
-    font-size: 1.40rem;
-    padding-top: 1.25rem;
-  }
-
+    .links {
+        font-size: 150%;
+    }
+    .menu {
+        padding-top: 2%;
+    }
+    .item-menu {
+        padding-left: 15%;
+    }
+    .menuBar {
+        margin-top: 21.4rem;
+    }
+    .flex-item-atleta {
+        width: 30%;
+        padding-top: 2%;
+    }
+    .conteudo-atletas {
+        font-size: 1.40rem;
+        padding-top: 1.25rem;
+    }
 }
 
 @media screen and (min-width: 768px) {
-  .item-menu {
-    padding-left: 14%;
-  }
-
-  .links {
-    font-size: 1.375rem;
-  }
-
+    .item-menu {
+        padding-left: 14%;
+    }
+    .links {
+        font-size: 1.375rem;
+    }
 }
 
 @media screen and (min-width: 1024px) {
-
-  .item-menu {
-    padding-left: 3%;
-  }
-
-  .links {
-    font-size: 1.125rem;
-  }
-
-  .barraMenu {
-    margin-top: 25%;
-
-  }
-
-  .flex-item-atleta {
-    width: 10rem;
-    bottom: 0.625rem
-  }
-
-  .conteudo-atletas {
-    font-size: 1.3rem;
-    padding-top: 1.25rem;
-  }
-
-}
+    .item-menu {
+        padding-left: 3%;
+    }
+    .links {
+        font-size: 1.125rem;
+    }
+    .barraMenu {
+        margin-top: 25%;
+    }
+    .flex-item-atleta {
+        width: 10rem;
+        bottom: 0.625rem
+    }
+    .conteudo-atletas {
+        font-size: 1.3rem;
+        padding-top: 1.25rem;
+    }
+} */

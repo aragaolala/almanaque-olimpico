@@ -1,134 +1,177 @@
-.banner {
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
+.header-page-about {
+    display: flex;
 }
 
-.banner-official {
-    position: absolute;
+body {
+    background-color: aqua;
+}
+
+.banner-page-about {
+    width: 100%;
 }
 
 .menu {
-    padding-top: 2%;
-    padding-left: 7%;
+    width: 3vw;
+    margin-left: 1%;
 }
 
-.item-menu {
+#menu-toggle {
+    opacity: 0;
+}
+
+#menu-toggle:checked+.menu-btn>span {
+    transform: rotate(45deg);
+}
+
+#menu-toggle:checked+.menu-btn>span::before {
+    top: 0;
+    transform: rotate(0deg);
+}
+
+#menu-toggle:checked+.menu-btn>span::after {
+    top: 0;
+    transform: rotate(90deg);
+}
+
+#menu-toggle:checked~.menu-box {
+    left: 0;
+}
+
+.menu-btn {
+    position: fixed;
+    margin-top: 2%;
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+    z-index: 2;
+}
+
+.menu-btn>span,
+.menu-btn>span::before,
+.menu-btn>span::after {
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background-color: #0D4B92;
+    transition-duration: .25s;
+}
+
+.menu-btn>span::before {
+    content: '';
+    top: -8px;
+}
+
+.menu-btn>span::after {
+    content: '';
+    top: 8px;
+}
+
+.menu-box {
+    display: block;
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: -150%;
+    width: 130%;
+    height: 130%;
+    margin: 0;
+    padding: 20px 0;
     list-style: none;
-    padding-left: 1%;
-    display: inline;
-    position: relative;
-    background-color: transparent;
+    background-color: #ffffff;
+    opacity: 90%;
+    transition-duration: .25s;
 }
 
-.links {
+.menu-item {
+    display: block;
+    padding: 10px 24px;
+    color: #0D4B92;
+    font-size: 12px;
     text-decoration: none;
-    color: #0d4b92;
-    font-size: 1.125rem;
-    font-weight: bold;
-    background-color: transparent;
+    transition-duration: .25s;
 }
 
-.margin {
-    margin-left: 15%;
-    margin-right: 15%;
+.menu-item:hover {
+    background-color: #ffffff;
 }
 
-.about {
-    padding-top: 25%;
+.medal-menu {
+    height: 3vh;
 }
 
-.title {
-    color: #0f3a6b;
-    font-size: 1.5rem;
-    padding-top: 1%;
-    padding-bottom: 1%;
-    position: relative;
-}
-
-.content {
-    font-size: 1.25rem;
-    text-align: justify;
-    position: relative;
+.logo {
+    display: flex;
+    justify-content: center;
 }
 
 .logo-mascot {
-    position: relative;
-    left: 50%;
-    top: 50%;
-    margin-left: -12.625rem;
-    margin-top: 3%;
+    height: 30vh;
+    width: 40vw;
+    border-radius: 5px;
+    margin: 3%;
+}
+
+.about {
+    text-align: start;
+    font-size: 10px;
+    margin-left: 1%;
+    line-height: 2;
+}
+
+h3 {
+    color: #0D4B92;
+    ;
 }
 
 .footer {
-    font-size: 1.25rem;
+    background: #e3722b;
     text-align: center;
-    padding-top: 11%;
-    padding-bottom: 1%;
-}
-
-@media screen and (min-width: 320px) {
-    .links {
-        font-size: 1.375rem;
-    }
-    .menu {
-        padding-top: 2%;
-    }
-    .item-menu {
-        padding-left: 14%;
-    }
-    .title {
-        font-size: 0.75rem;
-        padding-top: 2.5%;
-        padding-bottom: 1.5%;
-    }
-    .content {
-        font-size: 0.75rem;
-    }
-    .footer {
-        font-size: 0.5rem;
-    }
-    .gitHub-linkedin {
-        width: 1.5rem;
-        height: 1.5rem;
-    }
+    margin-top: 2%;
+    padding: 0.25%;
+    font-size: 0.5rem;
 }
 
 @media screen and (min-width: 768px) {
-    .content {
-        font-size: 0.813rem;
+    body {
+        background: red;
+    }
+    .menu-box {
+        padding: 30px 0;
+    }
+    .logo-mascot {
+        height: 40vh;
+        width: 50vw;
+        border-radius: 8px;
+        margin: 3%;
+    }
+    .about {
+        font-size: 18px;
     }
     .footer {
-        font-size: 0.625rem;
-    }
-    .gitHub-linkedin {
-        width: 1rem;
-        height: 1rem;
+        font-size: 1.10rem;
+        padding: 0.5%;
     }
 }
 
 @media screen and (min-width: 1024px) {
-    .item-menu {
-        padding-left: 3%;
+    body {
+        background: green;
     }
-    .links {
-        font-size: 1.125rem;
-    }
-    .about {
-        margin-top: 1%;
-    }
-    .title {
-        font-size: 1.125rem;
-    }
-    .content {
-        font-size: 1rem;
+    .menu-box {
+        padding: 35px 0;
     }
     .logo-mascot {
-        width: 350px;
-        height: 200px;
-        margin-left: -10.625rem;
+        height: 45vh;
+        width: 60vw;
+        border-radius: 10px;
+        margin: 3%;
+    }
+    .about {
+        font-size: 20px;
     }
     .footer {
-        font-size: 0.875rem;
+        font-size: 1.5rem;
+        padding: 0.75%;
     }
 }
