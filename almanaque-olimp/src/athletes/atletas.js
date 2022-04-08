@@ -8,10 +8,10 @@ function showCards(data) {
         return `
       <div class="flex-item-atleta">
         <ol class = "cards-atletas">
-          <li class="conteudo-atletas">${atletas.name}</li>
-          <li class="conteudo-atletas">${atletas.team}</li>
-          <li class="conteudo-atletas">${atletas.sport}</li>
-          <li class="conteudo-atletas">${atletas.medal}</li>
+          <li class="conteudo-atletas1">${atletas.name}</li>
+          <li class="conteudo-atletas">País: ${atletas.team}</li>
+          <li class="conteudo-atletas">Esporte: ${atletas.sport}</li>
+          <li class="conteudo-atletas">Medalha: ${atletas.medal}</li>
         </ol>
       </div>`
     });

@@ -17,8 +17,8 @@ function showCards(data) {
         cardsCountry += `
       <div class="flex-item">
         <ol class="background">
-          <li class="contents-country">${country}</li>
-          <li class="contents-country">Total Athletes: ${listCountry[country].length}</li>
+          <li class="contents-country1">${country}</li>
+          <li class="contents-country">Total de Atletas: ${listCountry[country].length}</li>
         </ol>
       </div>`
     }
