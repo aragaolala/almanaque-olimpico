@@ -91,7 +91,7 @@
     display: block;
     padding: 10px 24px;
     color: #0D4B92;
-    font-size: 12px;
+    font-size: 15px;
     text-decoration: none;
     transition-duration: .25s;
 }
@@ -133,7 +133,7 @@ h3 {
     }
 
     .menu-item {
-        font-size: 15px;
+        font-size: 17px;
     }
     .logo-mascot {
         height: auto;
