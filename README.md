@@ -61,7 +61,7 @@ Todos os protótipos de alta fidelidade foram desenvolvidos através da ferramen
 <img width="80px" src="readme/amanda.png" alt="amanda">
     </a>
 
-Amanda Gusmão - [LinkedIn](https://www.linkedin.com/in/gusmaoamanda/)
+[Amanda Gusmão](https://www.linkedin.com/in/gusmaoamanda/)
 </div>    
     
 <div>    
@@ -69,7 +69,7 @@ Amanda Gusmão - [LinkedIn](https://www.linkedin.com/in/gusmaoamanda/)
 <img width="80px" src="readme/aline.png" alt="aline">
     </a>
 
-Aline Rosa Cruz - [LinkedIn](https://www.linkedin.com/in/aline-rosa-cruz/)
+[Aline Rosa Cruz](https://www.linkedin.com/in/aline-rosa-cruz/)
 </div>
 
 <div>
@@ -77,7 +77,7 @@ Aline Rosa Cruz - [LinkedIn](https://www.linkedin.com/in/aline-rosa-cruz/)
 <img width="80px" src="readme/layssa.png" alt="layssa">
     </a>
 
-Layssa Aragão - [LinkedIn](https://www.linkedin.com/in/layssaaragaob/)     
+[Layssa Aragão](https://www.linkedin.com/in/layssaaragaob/)     
 </div>
 
 <div>
@@ -85,5 +85,5 @@ Layssa Aragão - [LinkedIn](https://www.linkedin.com/in/layssaaragaob/)
 <img width="80px" src="readme/larissa.png" alt="larissa">
     </a>
 
-Larissa Santos - [LinkedIn](https://www.linkedin.com/in/larissa-dos-reis-santos-aaa8b415a/)
+[Larissa Santos](https://www.linkedin.com/in/larissa-dos-reis-santos-aaa8b415a/)
 </div>
