@@ -29,7 +29,7 @@ Definimos duas personas como usuários para adequar uma aplicação que se basea
 Beatriz, 37 anos - Educadora.
 Serena, 29 anos - Fã das olimpiadas e esportes.
 
-#### Protótipo de baixa fidelidade
+## Protótipo de baixa fidelidade
 
 ![Desenho de baixa fidelidade](readme/baixa.jpeg)
 
@@ -37,7 +37,7 @@ Serena, 29 anos - Fã das olimpiadas e esportes.
 
 ![Desenho de fluxograma](readme/fluxo.png)
 
-#### Protótipo de alta fidelidade
+## Protótipo de alta fidelidade
 
 Por se tratar de um projeto responsivo criamos o protótipo de alta fidelidade para os dispositivos mais utilizados: smartphone, notebook/desktop e tablet.
 Todos os protótipos de alta fidelidade foram desenvolvidos através da ferramenta [Figma](https://www.figma.com/file/0m0Zwxst6GeezXK5OVuOMI/Prot%C3%B3tipo-de-alta-fidelidade---Data-Lovers---Ol%C3%ADmpiadas-(Copy---Squad-8)?node-id=209%3A3)
@@ -52,20 +52,22 @@ Todos os protótipos de alta fidelidade foram desenvolvidos através da ferramen
 - Figma
 - Jest
 
-## Desenvolvido por
+---
 
-<img width="42%" src="readme/amanda.png" alt="amanda">
+# Desenvolvido por
+
+<img width="200px" src="readme/amanda.png" alt="amanda">
 
 Amanda Gusmão - [LinkedIn] (https://www.linkedin.com/in/gusmaoamanda/) - [GitHub] (https://github.com/amandagusmao/)
 
-<img width="42%" src="readme/aline.png" alt="aline">
+<img width="200px" src="readme/aline.png" alt="aline">
 
 Aline Rosa Cruz - [LinkedIn](https://www.linkedin.com/in/aline-rosa-cruz/) - [GitHub](https://github.com/alinerc27/)
 
-<img width="42%" src="readme/layssa.png" alt="layssa">
+<img width="200px" src="readme/layssa.png" alt="layssa">
 
 Layssa Aragão - [LinkedIn](https://www.linkedin.com/in/layssaaragaob/) - [GitHub](https://github.com/aragaolala/)
 
-<img width="42%" src="readme/larissa.png" alt="larissa">
+<img width="200px" src="readme/larissa.png" alt="larissa">
 
 Larissa Santos - [LinkedIn](https://www.linkedin.com/in/larissa-dos-reis-santos-aaa8b415a/) - [GitHub](https://github.com/Larasantos97)
