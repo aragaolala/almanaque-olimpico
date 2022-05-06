@@ -27,9 +27,9 @@ Enxergamos grande potencial nesta aplicação que em futuras implementações, p
 
 ## Personas
 
-Definimos duas personas como usuários para adequar uma aplicação que se baseasse em suas necessidades.
-Beatriz, 37 anos - Educadora.
-Serena, 29 anos - Fã das olimpiadas e esportes.
+Definimos duas personas como usuários para adequar uma aplicação que se baseasse em suas necessidades.  
+- Beatriz, 37 anos - Educadora.
+- Serena, 29 anos - Fã das olimpiadas e esportes.
 
 ## Protótipo de baixa fidelidade
 
