@@ -63,20 +63,20 @@ Todos os protótipos de alta fidelidade foram desenvolvidos através da ferramen
     <img width="80px" src="readme/amanda.png" alt="amanda">
      </a>
 
-    [Amanda Gusmão](https://www.linkedin.com/in/gusmaoamanda/)
-    </div>    
+[Amanda Gusmão](https://www.linkedin.com/in/gusmaoamanda/)
+  </div>    
     
-    <div>    
-        <a href="https://github.com/alinerc27/">
-    <img width="80px" src="readme/aline.png" alt="aline">
-        </a>
+<div>    
+   <a href="https://github.com/alinerc27/">
+ <img width="80px" src="readme/aline.png" alt="aline">
+      </a>
 
-    [Aline Rosa Cruz](https://www.linkedin.com/in/aline-rosa-cruz/)
-    </div>
+[Aline Rosa Cruz](https://www.linkedin.com/in/aline-rosa-cruz/)
+  </div>
 
-    <div>
-        <a href="https://github.com/aragaolala/">
-    <img width="80px" src="readme/layssa.png" alt="layssa">
+ <div>
+      <a href="https://github.com/aragaolala/">
+  <img width="80px" src="readme/layssa.png" alt="layssa">
         </a>
 
 [Layssa Aragão](https://www.linkedin.com/in/layssaaragaob/)     
