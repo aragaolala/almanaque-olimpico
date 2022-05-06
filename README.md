@@ -26,7 +26,6 @@ Nossa aplicação tem três vertentes para que o usuário possa navegar, sendo e
 ## Personas
 
 Definimos duas personas como usuários para adequar uma aplicação que se baseasse em suas necessidades.
-
 Beatriz, 37 anos - Educadora.
 Serena, 29 anos - Fã das olimpiadas e esportes.
 
@@ -58,19 +57,32 @@ Todos os protótipos de alta fidelidade foram desenvolvidos através da ferramen
 # Desenvolvido por
 
 <div>
-<img width="150px" src="readme/amanda.png" alt="amanda">
+    <a href="https://github.com/amandagusmao/">
+<img width="100px" src="readme/amanda.png" alt="amanda">
+    </a>
 
-Amanda Gusmão - [LinkedIn](https://www.linkedin.com/in/gusmaoamanda/) - [GitHub](https://github.com/amandagusmao/)
+Amanda Gusmão - [LinkedIn](https://www.linkedin.com/in/gusmaoamanda/)
+</div>    
+    
+<div>    
+    <a href="https://github.com/alinerc27/">
+<img width="100px" src="readme/aline.png" alt="aline">
+    </a>
 
-<img width="150px" src="readme/aline.png" alt="aline">
+Aline Rosa Cruz - [LinkedIn](https://www.linkedin.com/in/aline-rosa-cruz/)
+</div>
 
-Aline Rosa Cruz - [LinkedIn](https://www.linkedin.com/in/aline-rosa-cruz/) - [GitHub](https://github.com/alinerc27/)
+<div>
+    <a href="https://github.com/aragaolala/">
+<img width="100px" src="readme/layssa.png" alt="layssa">
+    </a>
 
-<img width="150px" src="readme/layssa.png" alt="layssa">
+Layssa Aragão - [LinkedIn](https://www.linkedin.com/in/layssaaragaob/)     
+</div>
 
-Layssa Aragão - [LinkedIn](https://www.linkedin.com/in/layssaaragaob/) - [GitHub](https://github.com/aragaolala/)
-
-<img width="150px" src="readme/larissa.png" alt="larissa">
-
-Larissa Santos - [LinkedIn](https://www.linkedin.com/in/larissa-dos-reis-santos-aaa8b415a/) - [GitHub](https://github.com/Larasantos97)
+<div>
+    <a href="https://github.com/Larasantos97">
+<img width="100px" src="readme/larissa.png" alt="larissa">
+    </a>
+Larissa Santos - [LinkedIn](https://www.linkedin.com/in/larissa-dos-reis-santos-aaa8b415a/)
 </div>
