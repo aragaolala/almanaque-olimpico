@@ -23,6 +23,8 @@ Durante a Design Thinking Week, buscamos todas as informações sobre o tema, e 
 
 Nossa aplicação tem três vertentes para que o usuário possa navegar, sendo elas, a página "Home", onde o usuário poderá ler sobre curiosidades e informações sobre as olímpiadas do Rio 2016, a página "Atletas", onde o usuário tem a possibilidade de pesquisar os atletas pelo nome, ordenar de A-Z e Z-A, filtrar pela medalha ganha nos jogos e também filtrar pelo esporte que cada atleta pratica, e por fim a página "Países", nela há a possibilidade de filtrar cada país por ordem alfabética crescente e decrescente, os cards apresentados nesta tela contém também, a quantidade de atletas de acordo com cada país.
 
+Enxergamos grande potencial nesta aplicação que em futuras implementações, poderia facilmente ser um almanaque de eventos esportivos empresariais, por exemplo, o leque de possibilidades é muito grande e empolgante para nossa equipe que pensou em cada detalhe das melhorias a seguir.
+
 ## Personas
 
 Definimos duas personas como usuários para adequar uma aplicação que se baseasse em suas necessidades.
