@@ -61,7 +61,7 @@ Todos os protótipos de alta fidelidade foram desenvolvidos através da ferramen
 <img width="100px" src="readme/amanda.png" alt="amanda">
     </a>
 
-|Amanda Gusmão - [LinkedIn](https://www.linkedin.com/in/gusmaoamanda/)
+| Amanda Gusmão - [LinkedIn](https://www.linkedin.com/in/gusmaoamanda/)
 </div>    
     
 <div>    
@@ -69,7 +69,7 @@ Todos os protótipos de alta fidelidade foram desenvolvidos através da ferramen
 <img width="100px" src="readme/aline.png" alt="aline">
     </a>
 
-|Aline Rosa Cruz - [LinkedIn](https://www.linkedin.com/in/aline-rosa-cruz/)
+| Aline Rosa Cruz - [LinkedIn](https://www.linkedin.com/in/aline-rosa-cruz/)
 </div>
 
 <div>
@@ -77,7 +77,7 @@ Todos os protótipos de alta fidelidade foram desenvolvidos através da ferramen
 <img width="100px" src="readme/layssa.png" alt="layssa">
     </a>
 
-|Layssa Aragão - [LinkedIn](https://www.linkedin.com/in/layssaaragaob/)     
+| Layssa Aragão - [LinkedIn](https://www.linkedin.com/in/layssaaragaob/)     
 </div>
 
 <div>
@@ -85,5 +85,5 @@ Todos os protótipos de alta fidelidade foram desenvolvidos através da ferramen
 <img width="100px" src="readme/larissa.png" alt="larissa">
     </a>
 
-|Larissa Santos - [LinkedIn](https://www.linkedin.com/in/larissa-dos-reis-santos-aaa8b415a/)
+| Larissa Santos - [LinkedIn](https://www.linkedin.com/in/larissa-dos-reis-santos-aaa8b415a/)
 </div>
