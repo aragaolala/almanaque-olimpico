@@ -79,14 +79,13 @@ Todos os protótipos de alta fidelidade foram desenvolvidos através da ferramen
     <img width="80px" src="readme/layssa.png" alt="layssa">
         </a>
 
-    [Layssa Aragão](https://www.linkedin.com/in/layssaaragaob/)     
+[Layssa Aragão](https://www.linkedin.com/in/layssaaragaob/)     
     </div>
 
-    <div>
-     <a href="https://github.com/Larasantos97">
-    <img width="80px" src="readme/larissa.png" alt="larissa">
-        </a>
+ <div>
+  <a href="https://github.com/Larasantos97">
+<img width="80px" src="readme/larissa.png" alt="larissa">
+    </a>
 
-    [Larissa Santos](https://www.linkedin.com/in/larissa-dos-reis-santos-aaa8b415a/)
+[Larissa Santos](https://www.linkedin.com/in/larissa-dos-reis-santos-aaa8b415a/)
     </div>
-</div>
