@@ -35,7 +35,7 @@ Serena, 29 anos - Fã das olimpiadas e esportes.
 
 ## Fluxograma
 
-![Desenho de fluxograma](readme/fluxo.jpeg)
+![Desenho de fluxograma](readme/fluxo.png)
 
 #### Protótipo de alta fidelidade
 
@@ -54,11 +54,18 @@ Todos os protótipos de alta fidelidade foram desenvolvidos através da ferramen
 
 ## Desenvolvido por
 
-<img src="readme/amanda.png" alt="amanda">
-Amanda Gusmão - [LinkedIn](https://www.linkedin.com/in/gusmaoamanda/) - [GitHub](https://github.com/amandagusmao/)
-<img src="readme/aline.png" alt="aline">
+<img width="42%" src="readme/amanda.png" alt="amanda">
+
+Amanda Gusmão - [LinkedIn] (https://www.linkedin.com/in/gusmaoamanda/) - [GitHub] (https://github.com/amandagusmao/)
+
+<img width="42%" src="readme/aline.png" alt="aline">
+
 Aline Rosa Cruz - [LinkedIn](https://www.linkedin.com/in/aline-rosa-cruz/) - [GitHub](https://github.com/alinerc27/)
-<img src="readme/layssa.png" alt="layssa">
+
+<img width="42%" src="readme/layssa.png" alt="layssa">
+
 Layssa Aragão - [LinkedIn](https://www.linkedin.com/in/layssaaragaob/) - [GitHub](https://github.com/aragaolala/)
-<img src="readme/larissa.png" alt="larissa">
+
+<img width="42%" src="readme/larissa.png" alt="larissa">
+
 Larissa Santos - [LinkedIn](https://www.linkedin.com/in/larissa-dos-reis-santos-aaa8b415a/) - [GitHub](https://github.com/Larasantos97)
